@@ -1,3 +1,5 @@
+OLD-OUTDATED, this project had a lot of promise but was abandoned. Now this is a simply stale RAR file with their files, and nothing more than a memory of what it used to be and represent.
+
 Description
 GAMERBREED gives you the power to create your own original online real-time browser-based MMO on your website. It's fully customizable, giving you control over armies, worlds, cities, quests, resources and much, much more. Also, if you have knowledge of HTML you will be able to create themes for your own unique game!
 
